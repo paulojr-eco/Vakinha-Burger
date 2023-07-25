@@ -1,16 +1,16 @@
-# delivery_backoffice
+# Vakinhaburger Administração
 
-A new Flutter project.
+Aplicativo de administração e gerenciamento da hamburgeria Vakinha Burger feito através da framework `Flutter` para web. 
+O sistema foi construído com base em `Futter Modular` e `MobX`.
 
-## Getting Started
+## Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- awesome_snackbar_content
+- brasil_fields
+- dio
+- flutter_dotenv
+- flutter_mobx
+- flutter_modular
+- loading_animation_widget
+- mobx
+- validatorless
